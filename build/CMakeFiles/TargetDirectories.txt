@@ -1,0 +1,3 @@
+/home/hekun/Documents/objectDetectionRealtime/darknetPy/darknet/build/CMakeFiles/pydarknet.dir
+/home/hekun/Documents/objectDetectionRealtime/darknetPy/darknet/build/CMakeFiles/dnl.dir
+/home/hekun/Documents/objectDetectionRealtime/darknetPy/darknet/build/CMakeFiles/darknet.dir
